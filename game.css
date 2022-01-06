@@ -1,0 +1,22 @@
+body {
+    background-color: gold;
+}
+
+.col {
+    box-shadow: 0 0 10px #3a9ef0;
+    height: 30vh;
+}
+
+.box {
+    margin-top: 4%;
+    height: 10vh;
+    width: 40vw;
+}
+
+.text {
+    padding-top: 0em;
+    text-align: center;
+    font-size: 100px;
+    color: greenyellow;
+    text-shadow: 0px 0px 10px #4bd40c;
+}
